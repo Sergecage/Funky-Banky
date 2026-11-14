@@ -8,4 +8,4 @@ Core: Typescript
 
 Style: Tailwind
 
-React
+React + Redux
